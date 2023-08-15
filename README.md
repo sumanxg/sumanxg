@@ -42,11 +42,11 @@ From *Python's finesse* to *Laravel's craft*, my toolkit is versatile. AI, Compu
   🔬 Projects
 </h3>
 
-### 🚀 [Voilent Image Moderation](https://github.com/sumanxg/Image-Classification)
+#### 🚀 [Voilent Image Moderation](https://github.com/sumanxg/Image-Classification)
 
 Automate content moderation with AI-powered image classification.
 
-### 🚀 [Generative Artwork](https://github.com/sumanxg/GenART)
+#### 🚀 [Generative Artwork](https://github.com/sumanxg/GenART)
 
 Unleash creativity through code with generative art.
 
