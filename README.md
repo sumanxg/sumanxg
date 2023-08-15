@@ -52,8 +52,8 @@ Unleash creativity through code with generative art.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sumanxg)
+- 💼 [LinkedIn](https://www.linkedin.com/in/)
 - 🌐 [Personal Website](https://github.sumanxg.io)
-- 🎨 [Art Portfolio](https://www.sumanxg.com)
+- 🎨 [Art Portfolio](https://www.sumanxg.co)
 
 Reach out for tech, AI, or profound philosophy. Let's innovate together! 🚀
