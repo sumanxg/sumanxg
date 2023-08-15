@@ -23,18 +23,18 @@ Since my tech beginnings, I've been captivated by **AI's potential** – giving 
 </h3>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243)
-[![pandas](https://img.shields.io/badge/-pandas-150458)
-[![Anaconda](https://img.shields.io/badge/-Anaconda-44A833)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626)
-[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E)
-[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6)
+![NumPy](https://img.shields.io/badge/-NumPy-013243)
+![pandas](https://img.shields.io/badge/-pandas-150458)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20)
 ![AI](https://img.shields.io/badge/-AI-4CAF50)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FFC107)
 ![NLP](https://img.shields.io/badge/-NLP-F57C00)
-[![Git](https://img.shields.io/badge/-Git-F05032)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717)
+![Git](https://img.shields.io/badge/-Git-F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-181717)
 
 From *Python's finesse* to *Laravel's craft*, my toolkit is versatile. AI, Computer Vision, and NLP fuel my journey into data and language.
 
