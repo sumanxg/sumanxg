@@ -32,10 +32,6 @@ Automate content moderation with AI-powered image classification.
 
 Unleash creativity through code with generative art.
 
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumanxg&show_icons=true&theme=dark)](https://github.com/sumanxg)
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sumanxg)
