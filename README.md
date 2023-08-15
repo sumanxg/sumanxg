@@ -1,26 +1,26 @@
-<h3 align="left">
+<h4 align="left">
 Hi there, I'm Suman! 👋
-</h3>
+</h4>
 
 I'm a dedicated **Python & PHP Developer** based in bustling Mumbai, India. My journey in tech is fueled by a fervent interest in *Art*, *AI*, and all things **Tech**. When I'm not crafting code, I explore life's philosophical depths and the intricate realm of *Feelings*.
 
-<h3 align="left">
+<h4 align="left">
 🌟 About Me
-</h3>
+</h4>
 
 Since my tech beginnings, I've been captivated by **AI's potential** – giving machines human-like perception. Coupled with my love for *Art*, I bridge creativity and tech through *Computer Vision* and *Natural Language Processing*.
 
-<h3 align="left">
+<h4 align="left">
   🚀 My Journey
-</h3>
+</h4>
 
 - 🎓 Pursuing higher studies in **Computer Vision** and **NLP**.
 - 💼 Crafting elegant solutions with **Python** & **PHP**.
 - 🎨 Blending art and code for meaningful projects.
 
-<h3 align="left">
+<h4 align="left">
   🛠️ Tech Stack & Skills
-</h3>
+</h4>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243)
@@ -38,15 +38,15 @@ Since my tech beginnings, I've been captivated by **AI's potential** – giving 
 
 From *Python's finesse* to *Laravel's craft*, my toolkit is versatile. AI, Computer Vision, and NLP fuel my journey into data and language.
 
-<h2 align="left">
+<h4 align="left">
   🔬 Projects
-</h2>
+</h4>
 
-### [🚀 Voilent Image Moderation](https://github.com/sumanxg/Image-Classification)
+<h4 align="left">🚀 [Voilent Image Moderation](https://github.com/sumanxg/Image-Classification)</h4>
 
 Automate content moderation with AI-powered image classification.
 
-### [🚀 Generative Artwork](https://github.com/sumanxg/GenART)
+<h4 align="left">[🚀 Generative Artwork](https://github.com/sumanxg/GenART)</h4>
 
 Unleash creativity through code with generative art.
 
