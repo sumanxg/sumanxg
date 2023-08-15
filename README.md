@@ -14,9 +14,9 @@ Since my tech beginnings, I've been captivated by **AI's potential** – giving 
   🚀 My Journey
 </h3>
 
-- 🎓 Pursuing higher studies in **Computer Vision** and **NLP**.
-- 💼 Crafting elegant solutions with **Python** & **PHP**.
-- 🎨 Blending art and code for meaningful projects.
+- 🎓 I'm relentlessly working towards my dream of pursuing higher studies focusing on **Computer Vision** and **NLP** and other related fields. 
+- 💼 Professionally, I thrive on leveraging my expertise in  **Python** & **PHP** to craft efficient and elegant solutions that bring ideas to life.
+- 🎨 My artistic inclination finds its way into my coding endeavors, where I create projects that are not just functional, but also visually engaging and artistically meaningful.
 
 <h3 align="left">
   🛠️ Tech Stack & Skills
