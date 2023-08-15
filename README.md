@@ -8,7 +8,7 @@ I'm a dedicated **Python & PHP Developer** based in bustling Mumbai, India. My j
 🌟 About Me
 </h3>
 
-Since my tech beginnings, I've been captivated by **AI's potential** – giving machines human-like perception. Coupled with my love for *Art*, I bridge creativity and tech through *Computer Vision* and *Natural Language Processing*.
+Since my tech beginnings, I've been captivated by **AI's potential** – giving machines human-like perception. Coupled with my love for *Art*, I aim to bridge creativity and tech through *Computer Vision* and *Natural Language Processing*.
 
 <h3 align="left">
   🚀 My Journey
