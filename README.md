@@ -23,6 +23,7 @@ Since my tech beginnings, I've been captivated by **AI's potential** – giving 
 </h3>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB)
+![Django](https://img.shields.io/badge/-Django-092D1F)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243)
 ![pandas](https://img.shields.io/badge/-pandas-150458)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833)
