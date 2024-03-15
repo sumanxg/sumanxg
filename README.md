@@ -37,7 +37,7 @@ Since my tech beginnings, I've been captivated by **AI's potential** – giving 
 ![Git](https://img.shields.io/badge/-Git-F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717)
 
-From *Python's finesse* to *Laravel's craft*, my toolkit is versatile. AI, Computer Vision, and GAN fuel my journey into data and language.
+From *Python's finesse* to *Laravel's craft*, my toolkit is versatile. AI, Computer Vision, and GANs fuel my journey into data and language.
 
 <h3 align="left">
   🔬 Projects
