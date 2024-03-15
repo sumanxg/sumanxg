@@ -8,13 +8,13 @@ I'm a dedicated **Python & PHP Developer** based in bustling Mumbai, India. My j
 🌟 About Me
 </h3>
 
-Since my tech beginnings, I've been captivated by **AI's potential** – giving machines human-like perception. Coupled with my love for *Art*, I aim to bridge creativity and tech through *Computer Vision* and *Natural Language Processing*.
+Since my tech beginnings, I've been captivated by **AI's potential** – giving machines human-like perception. Coupled with my love for *Art*, I aim to bridge creativity and tech through *Computer Vision* and *GANs*.
 
 <h3 align="left">
   🚀 My Journey
 </h3>
 
-- 🎓 I'm relentlessly working towards my interest focusing on **Computer Science** and other related fields. 
+- 🎓 I'm relentlessly working towards my interest focusing on **Computer Vision** and other related fields. 
 - 💼 Professionally, I thrive on leveraging my expertise in  **Python** & **PHP** to craft efficient and elegant solutions that bring ideas to life.
 - 🎨 My artistic inclination finds its way into my coding endeavors, where I create projects that are not just functional, but also visually engaging and artistically meaningful.
 
@@ -37,7 +37,7 @@ Since my tech beginnings, I've been captivated by **AI's potential** – giving 
 ![Git](https://img.shields.io/badge/-Git-F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717)
 
-From *Python's finesse* to *Laravel's craft*, my toolkit is versatile. AI, Computer Vision, and NLP fuel my journey into data and language.
+From *Python's finesse* to *Laravel's craft*, my toolkit is versatile. AI, Computer Vision, and GAN fuel my journey into data and language.
 
 <h3 align="left">
   🔬 Projects
