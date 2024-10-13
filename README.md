@@ -31,7 +31,7 @@ Since my tech beginnings, I've been captivated by **AI's potential** – giving 
 ![Git](https://img.shields.io/badge/-Git-F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20)
-![Javascript](https://img.shields.io/badge/-Javascript-DAFBE1)
+![Javascript](https://img.shields.io/badge/-Javascript-F3D024)
 
 <h3 align="left">
   🚀 My Journey
