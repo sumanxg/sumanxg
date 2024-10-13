@@ -25,12 +25,13 @@ Since my tech beginnings, I've been captivated by **AI's potential** – giving 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20)
 ![AI](https://img.shields.io/badge/-AI-4CAF50)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FFC107)
 ![NLP](https://img.shields.io/badge/-NLP-F57C00)
 ![Git](https://img.shields.io/badge/-Git-F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20)
+![Javascript](https://img.shields.io/badge/-Javascript-DAFBE1)
 
 <h3 align="left">
   🚀 My Journey
