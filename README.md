@@ -1,29 +1,24 @@
-<h3 align="left">
-Hi there, I'm Suman! 👋
-</h3>
+<h3 align="left"> Hi there, I'm Suman! 👋 </h3>
+I'm an AI Enthusiast and Software Engineer based in Mumbai, India, specializing in cutting-edge AI technologies, including LLMs, Computer Vision, and Deep Learning. When I'm not crafting code, I explore the philosophical depths of life and the intricate realm of feelings.
 
-I'm a dedicated **Software Development Engineer** based in bustling Mumbai, India. My journey in tech is fueled by a fervent interest in *Art*, *AI*, and all things **Tech**. When I'm not crafting code, I explore life's philosophical depths and the intricate realm of *Feelings*.
+<h3 align="left"> 🌟 About Me </h3>
 
-<h3 align="left">
-🌟 About Me
-</h3>
+Since my tech beginnings, I've been captivated by **AI's potential** – giving machines human-like perception. I'm particularly excited about:
 
-Since my tech beginnings, I've been captivated by **AI's potential** – giving machines human-like perception. Coupled with my love for *Art*, I aim to bridge creativity and tech through *GANs* and *Computer Vision*.
+- 🤖 **LLMs**: Focusing on few-shot learning, prompt engineering, and model compression for improving natural language models.
+- 📊 **Data-Driven Software Engineering**: Researching AI-driven approaches to code quality, bug detection, and automated code generation.
+- 👁️ **Computer Vision**: Exploring image segmentation, 3D scene understanding, and integrating transformers for better visual perception.
+- 🕸️ **Deep Learning**: Working on graph neural networks, neuroevolution, and interpretable AI to tackle complex problems.
+- 🧮 **Machine Learning**: Developing adaptable learning systems with transfer learning, meta-learning, and AutoML.
 
-<h3 align="left">
-  🚀 My Journey
-</h3>
-
-- 🎓 I'm relentlessly working towards my interest focusing on **Artificial Intelligence** and other related fields. 
-- 💼 Professionally, I thrive on leveraging my expertise to craft efficient and elegant solutions that bring ideas to life.
-- 🎨 My artistic inclination finds its way into my coding endeavors, where I create projects that are not just functional, but also visually engaging and artistically meaningful.
-
-<h3 align="left">
-  🛠️ Tech Stack & Skills
-</h3>
+<h3 align="left"> 🛠️ Tech Stack </h3>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB)
 ![Django](https://img.shields.io/badge/-Django-092D1F)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00)
+![Keras](https://img.shields.io/badge/-Keras-D00000)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243)
 ![pandas](https://img.shields.io/badge/-pandas-150458)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833)
@@ -37,24 +32,15 @@ Since my tech beginnings, I've been captivated by **AI's potential** – giving 
 ![Git](https://img.shields.io/badge/-Git-F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717)
 
-From *Python's finesse* to *Tensorflow's craft*, my toolkit is versatile. AI, Computer Vision, and GANs fuel my journey into data and language.
-
 <h3 align="left">
-  🔬 Projects
+  🚀 My Journey
 </h3>
 
-#### 🚀 [Voilent Image Moderation](https://github.com/sumanxg/Image-Classification)
+- 🎓 I'm relentlessly working towards my interest focusing on Artificial Intelligence and other related fields. 
+- 💼 Professionally, I thrive on leveraging my expertise and the power of LLMs, CV, ML, and DL to craft efficient and elegant solutions that bring ideas to life.
+- 🔬 I am actively researching and implementing state-of-the-art AI models and architectures.
 
-Automate content moderation with AI-powered image classification.
 
-#### 🚀 [Generative Artwork](https://github.com/sumanxg/GenART)
+I'm passionate about contributing to the scientific community and always open to collaborations on innovative AI research projects!
 
-Unleash creativity through code with generative art.
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/)
-- 🌐 [Personal Website](https://github.sumanxg.io)
-- 🎨 [Art Portfolio](https://www.sumanxg.co)
-
-Reach out for tech, AI, Art or profound philosophy. Let's innovate together! 🚀
+Reach out for tech, AI, or profound philosophy. Let's innovate together! 🚀
