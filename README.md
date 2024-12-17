@@ -1,16 +1,6 @@
 <h3 align="left"> Hi there, I'm Suman! 👋 </h3>
 I'm an AI Enthusiast and Software Engineer based in Mumbai, India, specializing in cutting-edge AI technologies, including LLMs, Computer Vision, and Deep Learning. When I'm not crafting code, I explore the philosophical depths of life and the intricate realm of feelings.
 
-<h3 align="left"> 🌟 About Me </h3>
-
-Since my tech beginnings, I've been captivated by **AI's potential** – giving machines human-like perception. I'm particularly excited about:
-
-- 👁️ **Computer Vision**: Exploring image segmentation, 3D scene understanding, and integrating transformers for better visual perception.
-- 🕸️ **Deep Learning**: Working on graph neural networks, neuroevolution, and interpretable AI to tackle complex problems.
-- 🧮 **Machine Learning**: Developing adaptable learning systems with transfer learning, meta-learning, and AutoML.
-- 🏥 **AI for Healthcare Applications**: Researching AI techniques to revolutionize healthcare, including predictive diagnostics, medical imaging, and personalized treatment plans.
-- 🤖 **LLMs**: Focusing on few-shot learning, prompt engineering, and model compression for improving natural language models.
-- 📊 **Data-Driven Software Engineering**: Researching AI-driven approaches to code quality, bug detection, and automated code generation.
 
 <h3 align="left"> 🛠️ Tech Stack </h3>
 
