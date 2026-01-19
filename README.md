@@ -1,31 +1,54 @@
-<h3 align="left">Hey, I’m Suman 👋</h3>
+<h2 align="left">Hi, I’m Suman 👋</h2>
 
-I’m a Software Engineer building practical systems at the intersection of <b>AI, automation, and product engineering</b>.  
-Based in Mumbai 🇮🇳. Obsessed with turning complex ideas into working code.
+<p align="left">
+Product-minded Backend Engineer.  
+I build systems that survive real users, real data, and real business constraints.
+</p>
 
-I work hands-on with <b>LLMs, Computer Vision, and applied Machine Learning</b>—not as buzzwords, but as tools inside real products, dashboards, and workflows.
+---
 
-I believe in:
-• learning from first principles  
-• shipping over theorizing  
-• clean architecture > clever hacks  
+### 🧠 How I Think
 
-When I’m not coding, I think deeply about psychology, philosophy, and how humans actually interact with technology.
+I start with questions, not code.
 
-<h3 align="left">🛠️ Tech I Work With</h3>
+- What problem are we *actually* solving?
+- Who will maintain this a year from now?
+- What breaks when usage grows?
+- What’s the simplest system that still works?
 
-Python · Django · PyTorch · TensorFlow · OpenCV  
-LLMs · NLP · Computer Vision · scikit-learn  
-JavaScript · Laravel · SQL · Git · GitHub  
+I care less about frameworks and more about **systems that don’t fight their users or their developers**.
 
-<h3 align="left">🚀 What I’m Focused On</h3>
+---
 
-• Building AI-powered tools that solve real problems  
-• Designing clean backend systems with AI baked in  
-• Learning deeply, documenting openly, improving relentlessly  
+### 🔧 What I Build
 
-<h3 align="left">🤝 Open To</h3>
+- Backend systems for SaaS and mobile apps  
+- APIs for users, orders, payments, and workflows  
+- Custom CMS platforms for non-technical teams  
+- B2B and e-commerce systems where reliability matters  
 
-AI-focused collaborations · serious side projects · research-inspired builds  
+I enjoy owning things end-to-end: data models → APIs → deployment → production behavior.
 
-Let’s build things that actually work.
+---
+
+### 🛠️ Tools I’m Fluent With
+
+**Node.js, Laravel, Django**  
+**PostgreSQL, MySQL, MSSQL**  
+REST APIs • CMS • SaaS backends • Mobile APIs
+
+(Stacks change. Fundamentals don’t.)
+
+---
+
+### 🎯 What I’m Optimizing For
+
+- Clarity over cleverness  
+- Maintainability over shortcuts  
+- Product outcomes over shipping for the sake of shipping  
+
+---
+
+<p align="left">
+I’m interested in backend / product engineering roles where I can own systems and think long-term.
+</p>
